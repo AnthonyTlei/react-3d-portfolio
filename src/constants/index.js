@@ -186,49 +186,31 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Amazon Price Tracker",
-    description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
-  },
-  {
-    iconUrl: threads,
-    theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
-    description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
-  },
-  {
-    iconUrl: car,
-    theme: "btn-back-blue",
-    name: "Car Finding App",
-    description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+    name: "Amazon Clone",
+    description: "Developed a simple Amazon clone, web application.",
+    link: "https://github.com/AnthonyTlei/amazon-clone-frontend",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
-    description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
+    name: "Simple Pokedex App",
+    description: "Built a minimalistic Pokedex using NextJS and Pokemon API",
+    link: "https://nextjs-swr-pokedex.vercel.app/",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
+    name: "ECommerce App",
     description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+      "Developed an ecommerce web application using nextjs best practices.",
+    link: "https://nextjs-ecommerce-demo-wskv.vercel.app/",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "SecondBrain",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "Note Taking App that leverages AI to help organize, read and summarize user notes",
+    link: "https://nextjs-ai-note-app.vercel.app/",
   },
 ];
